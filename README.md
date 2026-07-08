@@ -43,33 +43,13 @@
 
 <img src="https://skillicons.dev/icons?i=python,r,js,html,css,cs&theme=dark" />
 
-### Machine Learning / Data Science
+### ML / Data / Backend
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,nodejs,mysql,postgres&theme=dark" />
 
-<p>
-  NumPy / pandas / Hugging Face Transformers
-</p>
+### Web / Tools / Others
 
-### Web / Backend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&theme=dark" />
-
-### Database / Vector Search
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-
-<p>
-  ChromaDB / LlamaIndex
-</p>
-
-### Tools / Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" />
-
-### Game / Others
-
-<img src="https://skillicons.dev/icons?i=unity&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,git,github,vscode,docker,linux,unity&theme=dark" />
 
 </div>
 
