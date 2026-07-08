@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=34&duration=2800&pause=1000&color=FFD45A&background=101426&center=true&vCenter=true&width=850&height=120&lines=Hello%2C+traveler.;%3E_+Taisei+Hara;Welcome+to+my+GitHub+quest;M1+Student+%40+NAIST;LLM+%2F+NLP+%2F+Recommender+Systems;Machine+Learning+for+User+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=36&duration=2800&pause=1000&color=2F5D8C&center=true&vCenter=true&width=850&height=70&lines=Hello%2C+traveler.;%3E_+Taisei+Hara;Welcome+to+my+GitHub+quest" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3200&pause=1000&color=B8860B&center=true&vCenter=true&width=850&height=45&lines=M1+Student+%40+NAIST;LLM+%2F+NLP+%2F+Recommender+Systems;Machine+Learning+for+User+Experience" alt="Typing SVG" />
 
 </div>
+
+<br>
 
 ## 🧙‍♂️ Status
 
