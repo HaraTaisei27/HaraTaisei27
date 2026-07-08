@@ -8,13 +8,13 @@
 
 <br>
 
-<div align="center">
+## 🌐 Profile Site
 
-### 🌐 Profile Site
+<div align="center">
 
 [![Profile Site](https://img.shields.io/badge/Visit_Profile_Site-101426?style=for-the-badge&logo=githubpages&logoColor=FFD45A&labelColor=101426&color=FFD45A)](https://harataisei27.github.io/profile-site/)
 
-https://harataisei27.github.io/profile-site/
+[https://harataisei27.github.io/profile-site/](https://harataisei27.github.io/profile-site/)
 
 </div>
 
